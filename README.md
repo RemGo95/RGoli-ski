@@ -1,2 +1,2 @@
 # RGoli-ski
-STM32 used to control vacumn wheels
+STM32 used to control vacumn wheels - mobile robot 
